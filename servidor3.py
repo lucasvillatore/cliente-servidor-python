@@ -4,7 +4,7 @@ from utils import create_connection
 
 MESSAGE_SIZE_IN_BYTES = 1024
 HOST = "localhost"
-PORT = 8003
+PORT = 8001
 
 def get_temperature():
     print("Checking temperature on server 3")

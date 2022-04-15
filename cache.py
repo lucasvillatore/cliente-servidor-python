@@ -1,14 +1,19 @@
 import time
+import json
 import socket
+
 from datetime import datetime, timedelta
-from random import randrange
 from servidor1 import HOST as HOST_1, PORT as PORT_1
 from servidor2 import HOST as HOST_2, PORT as PORT_2
 from servidor3 import HOST as HOST_3, PORT as PORT_3
+from utils import create_connection
 
 MESSAGE_SIZE_IN_BYTES = 1024
 CACHE_TABLE = []
 CACHE_DURATION_IN_SECONDS = 30
+CACHE_HOST = 'localhost'
+CACHE_PORT = 8000
+
 
 def make_connection_to_server(host, port):
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -98,7 +103,11 @@ if __name__ == "__main__":
 
     CACHE_TABLE = init_cache_table(servers)
 
+    connection, address = create_connection(CACHE_HOST, CACHE_PORT)
+
+    print("Connected by {}".format(address))
     while(True):
+        data = connection.recv(MESSAGE_SIZE_IN_BYTES)
         temperature_from_servers = []
         for cache_row in CACHE_TABLE:
             is_from_cache = True
@@ -117,9 +126,8 @@ if __name__ == "__main__":
                 "is_from_cache": is_from_cache,
                 "server_name": cache_row.get("server_name")
             })
-        for server_temperature in temperature_from_servers:
-            print_result(server_temperature)
-        print()
+        connection.sendall(str(json.dumps(temperature_from_servers)).encode("utf-8"))
+
         time.sleep(5)
 
         
