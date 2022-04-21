@@ -1,0 +1,84 @@
+Temperature on server 1 is 23 and WAS NOT received from cache
+Temperature on server 2 is 68 and WAS NOT received from cache
+Temperature on server 3 is -58 and WAS NOT received from cache
+
+Temperature on server 1 is 23 and WAS received from cache
+Temperature on server 2 is 68 and WAS received from cache
+Temperature on server 3 is -58 and WAS received from cache
+
+Temperature on server 1 is 23 and WAS received from cache
+Temperature on server 2 is 68 and WAS received from cache
+Temperature on server 3 is -58 and WAS received from cache
+
+Temperature on server 1 is 23 and WAS received from cache
+Temperature on server 2 is 68 and WAS received from cache
+Temperature on server 3 is -58 and WAS received from cache
+
+Temperature on server 1 is 23 and WAS received from cache
+Temperature on server 2 is 68 and WAS received from cache
+Temperature on server 3 is -58 and WAS received from cache
+
+Temperature on server 1 is 23 and WAS received from cache
+Temperature on server 2 is 68 and WAS received from cache
+Temperature on server 3 is -58 and WAS received from cache
+
+Temperature on server 1 is 1 and WAS NOT received from cache
+Temperature on server 2 is 59 and WAS NOT received from cache
+Temperature on server 3 is -70 and WAS NOT received from cache
+
+Temperature on server 1 is 1 and WAS received from cache
+Temperature on server 2 is 59 and WAS received from cache
+Temperature on server 3 is -70 and WAS received from cache
+
+Temperature on server 1 is 1 and WAS received from cache
+Temperature on server 2 is 59 and WAS received from cache
+Temperature on server 3 is -70 and WAS received from cache
+
+Temperature on server 1 is 1 and WAS received from cache
+Temperature on server 2 is 59 and WAS received from cache
+Temperature on server 3 is -70 and WAS received from cache
+
+Temperature on server 1 is 1 and WAS received from cache
+Temperature on server 2 is 59 and WAS received from cache
+Temperature on server 3 is -70 and WAS received from cache
+
+Temperature on server 1 is 10 and WAS NOT received from cache
+Temperature on server 2 is 65 and WAS NOT received from cache
+Temperature on server 3 is -72 and WAS NOT received from cache
+
+Temperature on server 1 is 10 and WAS received from cache
+Temperature on server 2 is 65 and WAS received from cache
+Temperature on server 3 is -72 and WAS received from cache
+
+Temperature on server 1 is 10 and WAS received from cache
+Temperature on server 2 is 65 and WAS received from cache
+Temperature on server 3 is -72 and WAS received from cache
+
+Temperature on server 1 is 10 and WAS received from cache
+Temperature on server 2 is 65 and WAS received from cache
+Temperature on server 3 is -72 and WAS received from cache
+
+Temperature on server 1 is 10 and WAS received from cache
+Temperature on server 2 is 65 and WAS received from cache
+Temperature on server 3 is -72 and WAS received from cache
+
+Temperature on server 1 is 10 and WAS received from cache
+Temperature on server 2 is 65 and WAS received from cache
+Temperature on server 3 is -72 and WAS received from cache
+
+Temperature on server 1 is -3 and WAS NOT received from cache
+Temperature on server 2 is 67 and WAS NOT received from cache
+Temperature on server 3 is -54 and WAS NOT received from cache
+
+Temperature on server 1 is -3 and WAS received from cache
+Temperature on server 2 is 67 and WAS received from cache
+Temperature on server 3 is -54 and WAS received from cache
+
+Temperature on server 1 is -3 and WAS received from cache
+Temperature on server 2 is 67 and WAS received from cache
+Temperature on server 3 is -54 and WAS received from cache
+
+Temperature on server 1 is -3 and WAS received from cache
+Temperature on server 2 is 67 and WAS received from cache
+Temperature on server 3 is -54 and WAS received from cache
+

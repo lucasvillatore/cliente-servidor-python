@@ -1,0 +1,151 @@
+Establishing connection with server 1
+Establishing connection with server 2
+Establishing connection with server 3
+Initializing cache table
+Creating server
+Cache server is listening on port 8000
+Connected by ('127.0.0.1', 45178)
+Cache from server 1 is expired, requesting a new temperature
+Updating row server 1 from cache table
+
+Cache from server 2 is expired, requesting a new temperature
+Updating row server 2 from cache table
+
+Cache from server 3 is expired, requesting a new temperature
+Updating row server 3 from cache table
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 is expired, requesting a new temperature
+Updating row server 1 from cache table
+
+Cache from server 2 is expired, requesting a new temperature
+Updating row server 2 from cache table
+
+Cache from server 3 is expired, requesting a new temperature
+Updating row server 3 from cache table
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 is expired, requesting a new temperature
+Updating row server 1 from cache table
+
+Cache from server 2 is expired, requesting a new temperature
+Updating row server 2 from cache table
+
+Cache from server 3 is expired, requesting a new temperature
+Updating row server 3 from cache table
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 is expired, requesting a new temperature
+Updating row server 1 from cache table
+
+Cache from server 2 is expired, requesting a new temperature
+Updating row server 2 from cache table
+
+Cache from server 3 is expired, requesting a new temperature
+Updating row server 3 from cache table
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+
+Cache from server 1 stil valid, getting temperature from cache
+
+Cache from server 2 stil valid, getting temperature from cache
+
+Cache from server 3 stil valid, getting temperature from cache
+

@@ -1,0 +1,12 @@
+Creating server
+Cache server is listening on port 8003
+Connected by ('127.0.0.1', 44854)
+Checking temperature on server 1
+Temperature on server 3 is 23
+Checking temperature on server 1
+Temperature on server 3 is 1
+Checking temperature on server 1
+Temperature on server 3 is 10
+Checking temperature on server 1
+Temperature on server 3 is -3
+Checking temperature on server 1
